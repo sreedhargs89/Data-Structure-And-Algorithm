@@ -80,20 +80,5 @@ public class SinglyLinkedList {
         printList();
 
         System.out.println("\nLength of the list: " + length());
-
-
-        int a = 4;
-
-        if (a > 3) {
-            System.out.println("a is greater than 3");
-        } else {
-            System.out.println("a is less than or equal to 3");
-        }
-
-        if (a == 2) {
-            System.out.println("a is equal to 2");
-        } else {
-            System.out.println("a is not equal to 2");
-        }
     }
 }
