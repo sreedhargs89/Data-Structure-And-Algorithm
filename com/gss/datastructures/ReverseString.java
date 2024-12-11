@@ -18,6 +18,7 @@ public class ReverseString {
         return output;
     }
 
+    public static String removeStars(String s) {
     public static void main(String[] args) {
         String input = "abcdefghijklmnopqrstuvxyz";
         String output = reverseString(input);
